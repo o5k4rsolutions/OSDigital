@@ -1,5 +1,7 @@
 {
   "name": "osdigital-www",
   "private": true,
-  "dependencies": { "worker-mailer": "^1.1.0" }
+  "dependencies": {
+    "worker-mailer": "^1.1.0"
+  }
 }
